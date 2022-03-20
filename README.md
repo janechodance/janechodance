@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Jane.
+A former pediatric occupational therapist with the passion of making people's life better. I decide to pursuit the career of software engineer to bring this passion to a bigger scale and a faster pace.
