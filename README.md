@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Jane.
-A former pediatric occupational therapist with the passion of making people's life better. I decide to pursuit the career of software engineer to bring this passion to a bigger scale and a faster pace.
-Tool box :clipboard:
+This is Jane.<br />
+A former pediatric occupational therapist with the passion of making people's life better. I decide to pursuit the career of software engineer to bring this passion to a bigger scale and a faster pace.<br />
+Tool box :clipboard:<br />
 Javascript, React, Ruby, Ruby on Rails, HTML, CSS, Git
