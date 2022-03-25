@@ -20,7 +20,7 @@ A former pediatric occupational therapist with the passion of making people's li
 Tool box :clipboard: :<br />
 Javascript, React, Ruby, Ruby on Rails, HTML, CSS, Git <br />
 Learning  :books: :<br />
-React Redux
+React Redux <br />
 Current project :crystal_ball: :<br />
 My happy place app <br/>
 :star2: An app that combines shopping and social media experience and creates community between shoppers and vendors.
