@@ -23,4 +23,4 @@ Learning  :books: :<br />
 React Redux <br />
 Current project :crystal_ball: :<br />
 My happy place app <br/>
-:star2: An app that combines shopping and social media experience and creates community between shoppers and vendors.
+:star2: An app that combines shopping and social media experience and creates community between shoppers and vendors.:star2:
