@@ -24,5 +24,5 @@ React Redux <br />
 Current project :crystal_ball: :<br />
 My happy place app <br/>
 :star2: An app that combines shopping and social media experience and creates community between shoppers and vendors.:star2: <br />
-Passion: <br />
-Proud creator of a jewlery shop called "The colors of elephant"
+Passion :purple_heart: : <br />
+Proud creator of a jewlery shop called :elephant:The colors of elephant:elephant:
