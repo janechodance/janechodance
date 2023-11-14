@@ -23,7 +23,7 @@ Typescript, Javascript, React, AWS, Serverless, Ruby, Ruby on Rails, HTML, CSS, 
 Certification 👩‍🎓 :<br />
 AWS Certified Developer – Associate <br />
 Current project :crystal_ball: :<br />
-Full circle app <br/>
+Connect the dots app <br/>
 :star2: A platform aims to create a seamless connection between therapists, schools, and parents, facilitating effective communication and collaboration to support the well-being and development of children.:star2: <br />
 Passion :purple_heart: : <br />
 Proud creator of a jewlery shop called :elephant:The colors of elephant:elephant: <br />
